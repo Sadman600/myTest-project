@@ -1,0 +1,19 @@
+h1{
+    color: seagreen;
+    text-align: center;
+}
+
+.first-section{
+    background-color: lightgray;
+    width: 300px;
+    border: 12px solid tomato;
+    padding: 50px;
+    margin: 20px;
+}
+.second-section{
+    background-color: lightgray;
+    width: 300px;
+    border: 12px solid seagreen;
+    padding: 50px;
+    margin: 20px;
+}
